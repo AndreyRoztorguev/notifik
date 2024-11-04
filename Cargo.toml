@@ -1,0 +1,12 @@
+[package]
+name = "notifiK"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+notify-rust = "4.11.3"
+
+
+[[bin]]
+name = "notifiK"
+path = "main.rs"
