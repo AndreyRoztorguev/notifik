@@ -1,4 +1,4 @@
-# notifik is a count down timer
+# notifik is a countdown timer notification
 
 ## Usage/Examples
 
